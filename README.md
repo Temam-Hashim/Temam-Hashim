@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_profile_picture_url_here" alt="Your Name">
+  <img src="https://temxtech.vercel.app/img/Timage.jpg" alt="Temam Hashim">
 </p>
 
 # Hi there, I'm Temam Hashim 👋
