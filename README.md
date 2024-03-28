@@ -35,25 +35,28 @@ My tech journey extends far beyond just coding. I wear multiple hats with enthus
 I've had the privilege of working on an array of exciting projects that have enriched my experience:
 
 ### Doctor and Lawyer Consulting Website
-Connecting professionals and clients for consultations, making expert advice accessible to all.
-
-### AfroGames
-A thriving gaming community and platform that celebrates diversity and inclusion, where gamers unite.
+ Doctor and Lawyer Consulting Website, where expert advice is just a click away. Our platform connects you with experienced doctors and lawyers who provide personalized consultations and guidance tailored to your needs.
 
 ### Social Media App
-Building connections and fostering real-time interactions in the digital realm.
+Social Media App, where connections come to life and conversations thrive. Our platform is designed to bring people together, foster meaningful interactions, and share moments that matter. Whether you're connecting with friends, discovering new interests, or expressing yourself creatively, our app offers a vibrant and engaging space to explore.
 
 ### Learning Management App
-Empowering students and educators with a seamless learning experience, shaping the future of education.
+Introducing our Learning Management Website customization services, where education meets innovation. Whether you're an educational institution, a corporate entity, or an individual educator, our customizable platform offers tailored solutions to meet your specific learning needs.
 
 ### Loan Origination System
-Streamlining the loan application process for financial institutions, driving efficiency and customer satisfaction.
+Introducing our Loan Origination System, a cutting-edge platform designed to revolutionize the lending process with speed, accuracy, and efficiency. Whether you're a financial institution, a mortgage lender, or a borrower seeking financing, our system provides a seamless experience from application to approval.
 
 ### Legal Request System
-Facilitating legal requests and case management, reducing bureaucratic hurdles.
+Introducing our Legal Request System, a comprehensive platform designed to streamline legal processes with efficiency and accuracy. Whether you're a legal professional, a business owner, or an individual seeking legal assistance, our system provides a user-friendly interface to submit, track, and manage legal requests seamlessly.
 
 ### Job Portal
-Connecting job seekers with opportunities, simplifying the job search process.
+Job Portal, your gateway to career opportunities and talent acquisition. Whether you're a job seeker or an employer, our platform offers a seamless experience tailored to your needs. Job seekers can explore a wide range of job listings, apply with ease, and track their applications. Employers can efficiently post job openings, manage candidates, and find the perfect match for their team. With user-friendly features and advanced search options, finding your dream job or ideal candidate has never been easier. Join us today and take the next step in your career journey.
+
+### Real State Management Website
+Real Estate Management platform, where property ownership becomes effortless. Simplify your property management tasks with our intuitive tools for listings, tenant management, maintenance requests, and financial tracking. From residential homes to commercial spaces, we provide a seamless experience for property owners, landlords, and tenants alike. Discover the ease and efficiency of managing your real estate portfolio with us.
+
+### VSLA ADMIN
+VSLA (Village Saving and Loan Association) Mobile App Admin Panel! Our admin panel is designed to provide you with powerful tools to manage and oversee your VSLA operations efficiently. 
 
 ## 💪 My Strengths
 
