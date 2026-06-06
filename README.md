@@ -11,10 +11,10 @@ Building scalable fintech, enterprise, AI-powered, and mobile solutions with mod
 </p>
 
 <p>
-<a href="https://temxtech.vercel.app" target="_blank">Portfolio</a> •
-<a href="https://linkedin.com/in/temam-hashim" target="_blank">LinkedIn</a> •
-<a href="https://github.com/temam-hashim" target="_blank">GitHub</a>
-<a href="https://www.instagram.com/hashim.temam" target="_blank">GitHub</a>
+  <a href="https://temxtech.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a> •
+  <a href="https://linkedin.com/in/temam-hashim" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  <a href="https://github.com/temam-hashim" target="_blank" rel="noopener noreferrer">GitHub</a> •
+  <a href="https://www.instagram.com/hashim.temam" target="_blank" rel="noopener noreferrer">Instagram</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=temam-hashim&label=Profile%20Views&color=00aeef&style=for-the-badge"/>
