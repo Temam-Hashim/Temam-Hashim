@@ -4,7 +4,7 @@
 
 # 🚀 Temam Hashim
 
-### Senior Full-Stack Software Engineer | Java Spring Boot | React & React Native | Fintech | AI Solutions
+### Senior Full-Stack Software Engineer | Java Spring Boot Architect | React & React Native Expert | Fintech | AI Solutions | Top Rated Upwork Freelancer
 
 <p>
 Building scalable fintech, enterprise, AI-powered, and mobile solutions with modern technologies.
@@ -270,28 +270,58 @@ Integrated CRM, ERP, Workflow and Analytics platform.
 **Cooperative Bank of Oromia**
 *July 2022 - Present*
 
-* Building enterprise banking solutions
-* Payment gateway integrations
-* Loan and financing systems
-* API architecture and security
-* Digital transformation initiatives
+- Building enterprise banking solutions
+- Payment gateway integrations
+- Loan and financing systems
+- API architecture and security
+- Digital transformation initiatives
+
+---
+
+### Part-Time Software Engineer
+
+**VK-Tech (Remote)**
+*2025 - Present*
+
+- Developing enterprise applications using Spring Boot Microservices and Next.js
+- Contributed to TRI EV Charging Platform and EMA Fleet Management System
+- Built scalable backend APIs and modern web applications
+- Worked on AI-powered image and video generation platforms
+- Participated in system architecture, deployment, and optimization
+
+---
+
+### Top Rated Freelancer
+
+**Upwork**
+*2023 - Present*
+
+- Delivered full-stack web, mobile, fintech, and AI solutions for international clients
+- Built applications using Java Spring Boot, React, React Native, Next.js, Node.js, and PostgreSQL
+- Designed scalable APIs, payment integrations, and enterprise systems
+- Maintained Top Rated status through consistent client satisfaction and successful project delivery
+
+---
 
 ### Software Developer
 
 **Black Financial Solution**
 *2021 - 2022*
 
-* Full-stack application development
-* Financial systems implementation
-* Backend API development
+- Full-stack application development
+- Financial systems implementation
+- Backend API development
+
+---
 
 ### Part-Time Lecturer
 
 **Werabe University**
-*2022*
+*February 2022 - June 2022*
 
-* Programming and software engineering courses
-* Student mentoring and project supervision
+- Taught programming and software engineering courses
+- Mentored students on software development projects
+- Assisted students in practical software engineering concepts
 
 ---
 
