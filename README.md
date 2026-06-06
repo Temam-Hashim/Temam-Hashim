@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://temxtech.vercel.app/img/Timage.jpg" width="180" style="border-radius:50%" />
+<img src="https://res-console.cloudinary.com/dlo0pizek/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/MDdjNjMxMzEtMDM4ZC00NjBlLWFkOWEtMzFiMjQ4ZThkMDNmX2ZiZXNyeg==/template_primary" width="180" style="border-radius:50%" />
 
 # 🚀 Temam Hashim
 
