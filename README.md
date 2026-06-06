@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/dlo0pizek/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1780734309/WhatsApp_Image_2026-06-06_at_11.23.06_wo71wz.jpg" 
+<img src="https://res.cloudinary.com/dlo0pizek/image/upload/c_thumb,w_200,g_face/v1780734309/WhatsApp_Image_2026-06-06_at_11.23.06_wo71wz.jpg" 
   />
 
 # 🚀 Temam Hashim
