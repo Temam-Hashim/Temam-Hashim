@@ -1,93 +1,317 @@
+<div align="center">
+
+<img src="https://temxtech.vercel.app/img/Timage.jpg" width="180" style="border-radius:50%" />
+
+# 🚀 Temam Hashim
+
+### Senior Full-Stack Software Engineer | Java Spring Boot | React & React Native | Fintech | AI Solutions
+
+<p>
+Building scalable fintech, enterprise, AI-powered, and mobile solutions with modern technologies.
+</p>
+
+<p>
+<a href="https://temxtech.vercel.app">Portfolio</a> •
+<a href="https://linkedin.com/in/temam-hashim">LinkedIn</a> •
+<a href="https://github.com/temam-hashim">GitHub</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=temam-hashim&label=Profile%20Views&color=00aeef&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm **Temam Hashim**, a Full-Stack Software Engineer with 5+ years of experience designing and building enterprise-grade applications across fintech, fleet management, AI, content platforms, ERP systems, and mobile ecosystems.
+
+I specialize in:
+
+* Java & Spring Boot Microservices
+* React, Next.js & TypeScript
+* React Native & Expo
+* PostgreSQL, MySQL & MongoDB
+* Docker, CI/CD & Cloud Deployment
+* AI Integrations & Generative AI Systems
+* Payment Gateway Integration (CyberSource, Stripe, Chapa, Santim Pay)
+* Enterprise System Architecture
+
+Currently working as a Software Engineer at **Cooperative Bank of Oromia**, building secure financial systems and large-scale digital platforms.
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+* Java 17
+* Spring Boot
+* Spring Security
+* JWT
+* OAuth2
+* Node.js
+* Express.js
+* Laravel PHP
+
+### Frontend
+
+* React
+* Next.js
+* React Native
+* Expo
+* TypeScript
+* Tailwind CSS
+* Material UI
+* Shadcn/UI
+
+### Database
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Supabase
+* PostGIS
+* pgVector
+* Apache AGE
+
+### DevOps & Tools
+
+* Docker
+* GitHub Actions
+* Nginx
+* Redis
+* Swagger/OpenAPI
+* Vercel
+* Linux
+
+### AI & Productivity
+
+* Claude Code
+* Cursor
+* GitHub Copilot
+* OpenAI APIs
+* Sora
+* AI Image Generation
+* AI Video Generation
+
+---
+
+# 🚀 Featured Projects
+
+## ⚡ TRI EV Charging Platform
+
+Enterprise electric vehicle charging ecosystem built using Spring Boot Microservices.
+
+### Features
+
+* Charging station management
+* Real-time charging sessions
+* Staff management
+* Payment processing
+* Analytics dashboard
+* Mobile applications
+
+**Tech Stack**
+
+`Spring Boot` `PostgreSQL` `React` `Docker`
+
+---
+
+## 🚚 EMA Fleet Management System
+
+Large-scale fleet and driver management platform.
+
+### Features
+
+* Vehicle tracking
+* Driver management
+* Alarm monitoring
+* Maintenance scheduling
+* Fleet analytics
+
+**Tech Stack**
+
+`Spring Boot Microservices` `PostgreSQL` `React`
+
+---
+
+## 🏦 SupplyChain (SouqChain)
+
+Fintech platform connecting merchants, agents, and banks.
+
+### Features
+
+* Digital financing workflows
+* Loan processing
+* Credit line management
+* Letter of Guarantee workflows
+* Payment integration
+* Mobile applications
+
+**Tech Stack**
+
+`Spring Boot` `React Native` `React` `PostgreSQL`
+
+---
+
+## 📚 Premium Content Platform
+
+Subscription-based digital content ecosystem.
+
+### Features
+
+* Content subscriptions
+* SMS Short Code integration
+* Audiobooks
+* Educational content
+* Entertainment content
+* Multi-language support
+
+**Tech Stack**
+
+`Next.js` `Node.js` `PostgreSQL` `TypeScript`
+
+---
+
+## 📖 Digital Book Reading & Purchase Platform
+
+Modern digital bookstore and reading platform.
+
+### Features
+
+* Online reading
+* Book purchases
+* Subscription plans
+* User libraries
+* Payment integration
+
+**Tech Stack**
+
+`PERN Stack` `Next.js` `PostgreSQL`
+
+---
+
+## 🎬 AIGC Platform
+
+AI-powered image and video generation platform.
+
+### Features
+
+* AI Image Generation
+* AI Video Generation
+* Prompt Engineering
+* Media Processing
+* Content Management
+
+**Tech Stack**
+
+`Spring Boot` `React` `AI APIs`
+
+---
+
+## 🔥 MNGL Fire Safety System
+
+Enterprise fire safety and monitoring platform.
+
+### Features
+
+* Fire incident management
+* Monitoring dashboards
+* Real-time notifications
+* Safety analytics
+
+**Tech Stack**
+
+`Supabase` `Edge Functions` `React`
+
+---
+
+## 💳 FlexBill
+
+Subscription and payment management system.
+
+### Features
+
+* Billing automation
+* Subscription lifecycle
+* Payment processing
+* Customer management
+
+**Tech Stack**
+
+`Spring Boot` `React`
+
+---
+
+## 🏢 KS4 Platform
+
+Integrated CRM, ERP, Workflow and Analytics platform.
+
+### Features
+
+* CRM
+* ERP
+* Workflow Automation
+* Analytics
+* Business Intelligence
+
+**Tech Stack**
+
+`EspoCRM` `Dolibarr` `PostgreSQL` `DBOS` `Metabase` `n8n`
+
+---
+
+# 🏆 Professional Experience
+
+### Software Engineer
+
+**Cooperative Bank of Oromia**
+*July 2022 - Present*
+
+* Building enterprise banking solutions
+* Payment gateway integrations
+* Loan and financing systems
+* API architecture and security
+* Digital transformation initiatives
+
+### Software Developer
+
+**Black Financial Solution**
+*2021 - 2022*
+
+* Full-stack application development
+* Financial systems implementation
+* Backend API development
+
+### Part-Time Lecturer
+
+**Werabe University**
+*2022*
+
+* Programming and software engineering courses
+* Student mentoring and project supervision
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://temxtech.vercel.app/img/Timage.jpg" alt="Temam Hashim">
+<img src="https://github-readme-stats.vercel.app/api?username=temam-hashim&show_icons=true&theme=tokyonight" />
 </p>
 
-# Hi there, I'm Temam Hashim 👋
-
-I'm a results-driven full-stack software developer with a passion for crafting seamless digital experiences and solving complex challenges. My journey in the world of technology has been nothing short of thrilling, and I'm excited to share my story with you.
-
-## 🌐 About Me
-
-With over three years of hands-on experience in the tech industry, I've honed my skills across a wide spectrum of programming languages and frameworks. I'm a true polyglot, comfortable in:
-
-- Java
-- C++
-- React
-- React Native
-- Express
-- Angular
-- Python
-- Node.js
-- PHP
-- Spring Boot
-- And many more!
-
-## 💡 What I Do
-
-My tech journey extends far beyond just coding. I wear multiple hats with enthusiasm:
-
-- **Full-Stack Wizard**: Whether it's crafting responsive front-end interfaces or architecting robust back-end systems, I've got it covered.
-- **Code Teacher**: Sharing knowledge is my superpower. I love demystifying programming concepts and inspiring the next generation of developers.
-- **Wordsmith**: As a content writer and blogger, I enjoy translating tech jargon into accessible insights for the broader community.
-
-## 🚀 Projects
-
-I've had the privilege of working on an array of exciting projects that have enriched my experience:
-
-### Doctor and Lawyer Consulting Website
- Doctor and Lawyer Consulting Website, where expert advice is just a click away. Our platform connects you with experienced doctors and lawyers who provide personalized consultations and guidance tailored to your needs.
-
-### Social Media App
-Social Media App, where connections come to life and conversations thrive. Our platform is designed to bring people together, foster meaningful interactions, and share moments that matter. Whether you're connecting with friends, discovering new interests, or expressing yourself creatively, our app offers a vibrant and engaging space to explore.
-
-### Learning Management App
-Introducing our Learning Management Website customization services, where education meets innovation. Whether you're an educational institution, a corporate entity, or an individual educator, our customizable platform offers tailored solutions to meet your specific learning needs.
-
-### Loan Origination System
-Introducing our Loan Origination System, a cutting-edge platform designed to revolutionize the lending process with speed, accuracy, and efficiency. Whether you're a financial institution, a mortgage lender, or a borrower seeking financing, our system provides a seamless experience from application to approval.
-
-### Legal Request System
-Introducing our Legal Request System, a comprehensive platform designed to streamline legal processes with efficiency and accuracy. Whether you're a legal professional, a business owner, or an individual seeking legal assistance, our system provides a user-friendly interface to submit, track, and manage legal requests seamlessly.
-
-### Job Portal
-Job Portal, your gateway to career opportunities and talent acquisition. Whether you're a job seeker or an employer, our platform offers a seamless experience tailored to your needs. Job seekers can explore a wide range of job listings, apply with ease, and track their applications. Employers can efficiently post job openings, manage candidates, and find the perfect match for their team. With user-friendly features and advanced search options, finding your dream job or ideal candidate has never been easier. Join us today and take the next step in your career journey.
-
-### Real State Management Website
-Real Estate Management platform, where property ownership becomes effortless. Simplify your property management tasks with our intuitive tools for listings, tenant management, maintenance requests, and financial tracking. From residential homes to commercial spaces, we provide a seamless experience for property owners, landlords, and tenants alike. Discover the ease and efficiency of managing your real estate portfolio with us.
-
-### VSLA ADMIN
-VSLA (Village Saving and Loan Association) Mobile App Admin Panel! Our admin panel is designed to provide you with powerful tools to manage and oversee your VSLA operations efficiently. 
-
-## 💪 My Strengths
-
-What sets me apart:
-
-- **Problem-Solving Savvy**: I thrive on tackling intricate problems and derive immense satisfaction from crafting elegant solutions.
-- **Crystal-Clear Communication**: Whether I'm writing code or explaining complex concepts, I prioritize effective and concise communication.
-- **Experience Matters**: With a proven track record spanning more than three years, I bring a wealth of practical knowledge to every project.
-- **Content Creator**: My passion for tech extends beyond code. I'm an avid content writer and blogger, sharing insights and helping others learn.
-
-## 🌐 Let's Connect!
-
-Feel free to explore my GitHub repositories to witness my work in action. If you have questions, wish to collaborate on exciting projects, or simply want to geek out about the latest tech trends, I'm just a message away.
-
-Let's embark on this tech adventure together! 🌟
-
-
-- ⚡ Fun fact **I love to spend time alone**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/temamhashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="temamhashim" height="30" width="40" /></a>
-<a href="https://twitter.com/hashimtemam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hashimtemam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/temam-hashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temam-hashim" height="30" width="40" /></a>
-<a href="https://fb.com/temam.hashim.750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="temam.hashim.750" height="30" width="40" /></a>
-<a href="https://instagram.com/temamhashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="temamhashim" height="30" width="40" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temam-hashim&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temam-hashim&show_icons=true&locale=en&layout=compact" alt="temam-hashim" /></p>
+# 🤝 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temam-hashim&show_icons=true&locale=en" alt="temam-hashim" /></p>
+* Portfolio: https://temxtech.vercel.app
+* LinkedIn: https://linkedin.com/in/temam-hashim
+* GitHub: https://github.com/temam-hashim
+
+### ⚡ Fun Fact
+
+I enjoy building products that solve real-world business problems, exploring AI technologies, and turning complex ideas into scalable software solutions.
