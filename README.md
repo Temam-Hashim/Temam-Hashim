@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://chatgpt.com/s/m_6a23db3071988191930cd20c987cae68" 
+<img src="https://res.cloudinary.com/dlo0pizek/image/upload/v1780734873/ChatGPT_Image_Jun_6_2026_11_33_19_AM_y741jv.png" 
   />
 
 # 🚀 Temam Hashim
